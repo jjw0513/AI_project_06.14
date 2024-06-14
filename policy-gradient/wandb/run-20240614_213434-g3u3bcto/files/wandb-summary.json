@@ -1,1 +1,0 @@
-{"episode": 9999, "reward": 9.0, "average_loss": 0.01449486737449964, "average_value": 5.670770366986592, "duration": 9, "_timestamp": 1718369977.3927517, "_runtime": 1502.4151906967163, "_step": 10099, "test_reward": 9.7, "_wandb": {"runtime": 1499}}
