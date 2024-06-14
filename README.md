@@ -4,15 +4,12 @@
 
 이 프로젝트는 강화학습의 Value-based와 Policy-gradient 알고리즘을 사용하여 3가지 환경에서의 성능을 비교 분석합니다. 사용된 알고리즘은 DQN, SARSA, A2C이며, OpenAI Gym의 다양한 환경에서 학습되었습니다.
 
-# 알고리즘 #
-Value-based)
+# RL 알고리즘 #
+
 
 DQN (Deep Q-Network)
 
 SARSA (State-Action-Reward-State-Action)
-
-
-Policy-gradient)
 
 A2C (Advantage Actor-Critic)
 
